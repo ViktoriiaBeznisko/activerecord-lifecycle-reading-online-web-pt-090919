@@ -16,7 +16,7 @@ class Post < ActiveRecord::Base
     end
   end
   
-    def email_author_about_post
+  def email_author_about_post
     # Not implemented.
     # For more information: https://guides.rubyonrails.org/action_mailer_basics.html
   end
